@@ -1,10 +1,8 @@
-# Chan Hahaz 🌙
-
-![LinkedIn cover - 1](https://github.com/user-attachments/assets/511104ea-5702-49d5-b701-b90650d02769)
+# ichanksks 🌙
 
 **`Aspiring Web Developer (Computer Science | 4th Year Student )`**
 
-Chan is a Computer Science student currently pursuing a degree with a focus on web and software development. Passionate about technology, Chan enjoys keeping up with the latest trends in the industry and continuously improving skills. Always eager to take on new challenges, learning excites Chan.
+Christian Nacario is a Computer Science student currently pursuing a degree with a focus on web and software development. Passionate about technology, Chan enjoys keeping up with the latest trends in the industry and continuously improving skills. Always eager to take on new challenges, learning excites Chan.
 
 ### Other Languages and Tools
 

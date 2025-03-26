@@ -2,8 +2,7 @@
 
 **`Aspiring Web Developer (Computer Science | 4th Year Student)`**
 
-Christian Nacario is a Computer Science student currently pursuing a degree with a focus on web and software development. Passionate about technology, Chan enjoys keeping up with the latest trends in the industry and continuously improving skills. Always eager to take on new challenges, learning excites Chan.
-
+I am a Computer Science student currently pursuing my degree with a focus on web and software development. Passionate about technology, I enjoy keeping up with the latest industry trends and continuously improving my skills. Always eager to take on new challenges, I find learning exciting.
 ---
 
 ### 🌐 Other Languages and Tools

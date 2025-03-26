@@ -6,8 +6,6 @@
 
 Chan is a Computer Science student currently pursuing a degree with a focus on web and software development. Passionate about technology, Chan enjoys keeping up with the latest trends in the industry and continuously improving skills. Always eager to take on new challenges, learning excites Chan.
 
-<a href="https://www.linkedin.com/in/christian-nacario-791024275/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/CHECK%20MY%20LINKEDIN%20PROFILE-1F222E?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
 ### Other Languages and Tools
 
 <img align="left" width="36px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -17,6 +15,8 @@ Chan is a Computer Science student currently pursuing a degree with a focus on w
 <img align="left" width="36px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" width="36px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" width="36px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" width="36px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/laravel-original.svg" />
+<img align="left" width="36px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/React-original.svg" />
 <img align="left" width="36px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" width="36px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 

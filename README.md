@@ -37,7 +37,7 @@ I am a Computer Science student currently pursuing my degree with a focus on web
 ---
 
 ## 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/christian-nacario-791024275/)
+- [LinkedIn](https://www.linkedin.com/in/christian-nacario/)
 - [Email](mailto:nacariochristian041@gmail.com)
 
 ---

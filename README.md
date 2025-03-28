@@ -5,6 +5,10 @@
 I am a Computer Science student currently pursuing my degree with a focus on web and software development. Passionate about technology, I enjoy keeping up with the latest industry trends and continuously improving my skills. Always eager to take on new challenges, I find learning exciting.
 ---
 
+## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christiannacario&langs_count=3&layout=compact&theme=radical)
+
+
 ### 🌐 Other Languages and Tools
 
 <div>
